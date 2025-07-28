@@ -15,7 +15,9 @@ bash
 Copy
 Edit
 ''''
+
 sudo apt update && sudo apt upgrade -y
+
 ''''
 This updates your system's package index and upgrades all installed packages.
 
