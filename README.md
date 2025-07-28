@@ -14,7 +14,9 @@ Administrator access in WSL.
 bash
 Copy
 Edit
+'''
 sudo apt update && sudo apt upgrade -y
+'''
 This updates your system's package index and upgrades all installed packages.
 
 ☕ Step 2: Install Java (Jenkins Dependency)
